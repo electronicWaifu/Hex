@@ -1,4 +1,4 @@
 # Hex
 hexcode based digital color management tool for Android.
 
-for precision and uniformity in digital color management. a tool for book matching color in hex format [i.e. #000000]. allows color picking from existing images, saving swatches and data transfer between aplications.
+for precision and uniformity in digital color management. a tool for book matching color in hex format [i.e. #000000]. pick colors from existing images, save swatches and transfer data between aplications.
